@@ -1,9 +1,9 @@
-# conuhacksIII_poc
-
 Elderly Daemon
 ======
 Our product is called the **Elderly Daemon**</br>
 We aimed to use this product to help care for the safety of elderly people.
+
+</br></br>
 
 Software Components
 ======
@@ -15,13 +15,14 @@ Both Android/IOS versions are provided.</br>
 
 Web Client
 ----
-The Web Client is used by authorized users to manage the connected and bonded mobile devices.
+The Web Client is used by authorized users to manage the connected and bonded mobile devices.</br>
 Admins use Google OAuth to register/login.</br>
 
 IBM Watson
 ----
 We used IBM Watson Vision to provide the image processing services.
 
+</br></br>
 
 Software Architectural Pattern
 ======
